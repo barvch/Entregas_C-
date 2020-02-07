@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.exe
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.deps.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\Rodolfo Baruch\Desktop\C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb
