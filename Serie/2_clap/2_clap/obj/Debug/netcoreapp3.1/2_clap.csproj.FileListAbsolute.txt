@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\bin\Debug\netcoreapp3.1\2_clap.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\obj\Debug\netcoreapp3.1\2_clap.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\obj\Debug\netcoreapp3.1\2_clap.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\obj\Debug\netcoreapp3.1\2_clap.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\obj\Debug\netcoreapp3.1\2_clap.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\2_clap\2_clap\obj\Debug\netcoreapp3.1\2_clap.pdb

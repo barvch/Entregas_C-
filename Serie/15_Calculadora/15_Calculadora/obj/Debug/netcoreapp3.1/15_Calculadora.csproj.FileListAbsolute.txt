@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.exe
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.deps.json
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.runtimeconfig.json
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.dll
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\bin\Debug\netcoreapp3.1\15_Calculadora.pdb
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\obj\Debug\netcoreapp3.1\15_Calculadora.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\obj\Debug\netcoreapp3.1\15_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\obj\Debug\netcoreapp3.1\15_Calculadora.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\obj\Debug\netcoreapp3.1\15_Calculadora.dll
+C:\Users\Rodolfo Baruch\source\repos\15_Calculadora\15_Calculadora\obj\Debug\netcoreapp3.1\15_Calculadora.pdb

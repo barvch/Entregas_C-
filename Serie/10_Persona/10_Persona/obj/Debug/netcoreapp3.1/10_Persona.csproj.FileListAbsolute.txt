@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\bin\Debug\netcoreapp3.1\10_Persona.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\obj\Debug\netcoreapp3.1\10_Persona.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\obj\Debug\netcoreapp3.1\10_Persona.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\obj\Debug\netcoreapp3.1\10_Persona.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\obj\Debug\netcoreapp3.1\10_Persona.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\10_Persona\10_Persona\obj\Debug\netcoreapp3.1\10_Persona.pdb

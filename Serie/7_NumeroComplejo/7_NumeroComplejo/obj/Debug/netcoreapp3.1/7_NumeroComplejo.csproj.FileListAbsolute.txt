@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\bin\Debug\netcoreapp3.1\7_NumeroComplejo.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\obj\Debug\netcoreapp3.1\7_NumeroComplejo.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\obj\Debug\netcoreapp3.1\7_NumeroComplejo.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\obj\Debug\netcoreapp3.1\7_NumeroComplejo.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\obj\Debug\netcoreapp3.1\7_NumeroComplejo.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\7_NumeroComplejo\7_NumeroComplejo\obj\Debug\netcoreapp3.1\7_NumeroComplejo.pdb

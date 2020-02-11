@@ -1,0 +1,10 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\bin\Debug\netcoreapp3.1\16_Polimormismo.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\obj\Debug\netcoreapp3.1\16_Polimormismo.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\obj\Debug\netcoreapp3.1\16_Polimormismo.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\obj\Debug\netcoreapp3.1\16_Polimormismo.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\16_Polimormismo\16_Polimormismo\obj\Debug\netcoreapp3.1\16_Polimormismo.pdb

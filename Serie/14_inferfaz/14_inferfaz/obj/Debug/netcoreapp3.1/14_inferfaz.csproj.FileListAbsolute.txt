@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\bin\Debug\netcoreapp3.1\14_inferfaz.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\obj\Debug\netcoreapp3.1\14_inferfaz.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\obj\Debug\netcoreapp3.1\14_inferfaz.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\obj\Debug\netcoreapp3.1\14_inferfaz.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\obj\Debug\netcoreapp3.1\14_inferfaz.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\14_inferfaz\14_inferfaz\obj\Debug\netcoreapp3.1\14_inferfaz.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\bin\Debug\netcoreapp3.1\4_Fibonacci.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\obj\Debug\netcoreapp3.1\4_Fibonacci.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\obj\Debug\netcoreapp3.1\4_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\obj\Debug\netcoreapp3.1\4_Fibonacci.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\obj\Debug\netcoreapp3.1\4_Fibonacci.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\4_Fibonacci\4_Fibonacci\obj\Debug\netcoreapp3.1\4_Fibonacci.pdb

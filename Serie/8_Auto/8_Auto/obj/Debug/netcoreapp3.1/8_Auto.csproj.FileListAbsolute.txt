@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\bin\Debug\netcoreapp3.1\8_Auto.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\obj\Debug\netcoreapp3.1\8_Auto.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\obj\Debug\netcoreapp3.1\8_Auto.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\obj\Debug\netcoreapp3.1\8_Auto.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\obj\Debug\netcoreapp3.1\8_Auto.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\8_Auto\8_Auto\obj\Debug\netcoreapp3.1\8_Auto.pdb

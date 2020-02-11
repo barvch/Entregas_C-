@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\obj\Debug\netcoreapp3.1\3_EfeVocales.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\obj\Debug\netcoreapp3.1\3_EfeVocales.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\bin\Debug\netcoreapp3.1\3_EfeVocales.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\obj\Debug\netcoreapp3.1\3_EfeVocales.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\obj\Debug\netcoreapp3.1\3_EfeVocales.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\3_EfeVocales\3_EfeVocales\obj\Debug\netcoreapp3.1\3_EfeVocales.pdb

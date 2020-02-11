@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\bin\Debug\netcoreapp3.1\5_Agenda.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\obj\Debug\netcoreapp3.1\5_Agenda.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\obj\Debug\netcoreapp3.1\5_Agenda.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\obj\Debug\netcoreapp3.1\5_Agenda.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\obj\Debug\netcoreapp3.1\5_Agenda.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\5_Agenda\5_Agenda\obj\Debug\netcoreapp3.1\5_Agenda.pdb

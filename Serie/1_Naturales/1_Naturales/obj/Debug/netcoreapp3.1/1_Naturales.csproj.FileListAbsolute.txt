@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\bin\Debug\netcoreapp3.1\1_Naturales.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\obj\Debug\netcoreapp3.1\1_Naturales.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\obj\Debug\netcoreapp3.1\1_Naturales.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\obj\Debug\netcoreapp3.1\1_Naturales.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\obj\Debug\netcoreapp3.1\1_Naturales.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\1_Naturales\1_Naturales\obj\Debug\netcoreapp3.1\1_Naturales.pdb

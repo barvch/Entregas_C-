@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\bin\Debug\netcoreapp3.1\11_Matrices.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\obj\Debug\netcoreapp3.1\11_Matrices.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\obj\Debug\netcoreapp3.1\11_Matrices.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\obj\Debug\netcoreapp3.1\11_Matrices.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\obj\Debug\netcoreapp3.1\11_Matrices.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\11_Matrices\11_Matrices\obj\Debug\netcoreapp3.1\11_Matrices.pdb

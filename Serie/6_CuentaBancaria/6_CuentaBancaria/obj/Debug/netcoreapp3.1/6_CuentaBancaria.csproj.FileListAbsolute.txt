@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\bin\Debug\netcoreapp3.1\6_CuentaBancaria.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\obj\Debug\netcoreapp3.1\6_CuentaBancaria.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\obj\Debug\netcoreapp3.1\6_CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\obj\Debug\netcoreapp3.1\6_CuentaBancaria.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\obj\Debug\netcoreapp3.1\6_CuentaBancaria.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\6_CuentaBancaria\6_CuentaBancaria\obj\Debug\netcoreapp3.1\6_CuentaBancaria.pdb

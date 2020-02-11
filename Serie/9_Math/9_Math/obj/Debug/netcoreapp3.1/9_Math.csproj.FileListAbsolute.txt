@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\bin\Debug\netcoreapp3.1\9_Math.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\obj\Debug\netcoreapp3.1\9_Math.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\obj\Debug\netcoreapp3.1\9_Math.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\obj\Debug\netcoreapp3.1\9_Math.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\obj\Debug\netcoreapp3.1\9_Math.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\9_Math\9_Math\obj\Debug\netcoreapp3.1\9_Math.pdb

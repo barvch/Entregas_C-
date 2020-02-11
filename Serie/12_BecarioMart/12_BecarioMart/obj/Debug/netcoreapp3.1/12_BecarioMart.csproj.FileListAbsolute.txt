@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\bin\Debug\netcoreapp3.1\12_BecarioMart.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\obj\Debug\netcoreapp3.1\12_BecarioMart.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\obj\Debug\netcoreapp3.1\12_BecarioMart.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\obj\Debug\netcoreapp3.1\12_BecarioMart.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\obj\Debug\netcoreapp3.1\12_BecarioMart.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\12_BecarioMart\12_BecarioMart\obj\Debug\netcoreapp3.1\12_BecarioMart.pdb

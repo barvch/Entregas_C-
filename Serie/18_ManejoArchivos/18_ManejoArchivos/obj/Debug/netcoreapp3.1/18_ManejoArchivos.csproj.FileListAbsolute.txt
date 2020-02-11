@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\bin\Debug\netcoreapp3.1\18_ManejoArchivos.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\obj\Debug\netcoreapp3.1\18_ManejoArchivos.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\obj\Debug\netcoreapp3.1\18_ManejoArchivos.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\obj\Debug\netcoreapp3.1\18_ManejoArchivos.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\obj\Debug\netcoreapp3.1\18_ManejoArchivos.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\18_ManejoArchivos\18_ManejoArchivos\obj\Debug\netcoreapp3.1\18_ManejoArchivos.pdb

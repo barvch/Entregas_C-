@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\bin\Debug\netcoreapp3.1\13_Carro.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\obj\Debug\netcoreapp3.1\13_Carro.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\obj\Debug\netcoreapp3.1\13_Carro.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\obj\Debug\netcoreapp3.1\13_Carro.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\obj\Debug\netcoreapp3.1\13_Carro.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\13_Carro\13_Carro\obj\Debug\netcoreapp3.1\13_Carro.pdb

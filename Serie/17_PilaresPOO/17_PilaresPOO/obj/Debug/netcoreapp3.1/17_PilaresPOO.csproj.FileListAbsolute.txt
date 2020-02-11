@@ -1,0 +1,10 @@
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.exe
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.deps.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\bin\Debug\netcoreapp3.1\17_PilaresPOO.pdb
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\obj\Debug\netcoreapp3.1\17_PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\obj\Debug\netcoreapp3.1\17_PilaresPOO.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\obj\Debug\netcoreapp3.1\17_PilaresPOO.dll
+C:\Users\Rodolfo Baruch\Desktop\Serie\17_PilaresPOO\17_PilaresPOO\obj\Debug\netcoreapp3.1\17_PilaresPOO.pdb
