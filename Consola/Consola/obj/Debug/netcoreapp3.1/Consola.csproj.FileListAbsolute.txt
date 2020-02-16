@@ -1,0 +1,11 @@
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Rodolfo Baruch\Desktop\C#\Consola\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
